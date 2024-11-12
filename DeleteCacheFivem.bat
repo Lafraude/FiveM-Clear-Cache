@@ -5,6 +5,7 @@ color 0c
 echo ===========================================
 echo        Bienvenue dans le Nettoyeur de Cache FiveM !
 echo               Developpe par Lafraude
+echo                 discord.gg/mxstorys
 echo ===========================================
 echo.
 echo Pret a supprimer le cache de FiveM ? C'est parti !
